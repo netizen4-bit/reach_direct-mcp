@@ -82,13 +82,13 @@ Because ReachDirect operates autonomously, the quality of your outreach depends 
 
 **The Chained Prompt Formula:**
 
-> "I need to reach out to Riyad regarding our new product.
+> "I need to reach out to John Doe regarding our new product.
 > 
-> Step 1: Use your `send_email` tool to send an email to sales@doradoland.com from r.m.gasimov@gmail.com with a polite introduction.
+> Step 1: Use your `send_email` tool to send an email to john.doe@example.com from my.email@company.com with a polite introduction.
 > 
-> Step 2: Use your `send_whatsapp` tool to send a quick follow-up message to +905315289016 letting him know I sent an email.
+> Step 2: Use your `send_whatsapp` tool to send a quick follow-up message to +1234567890 letting him know I sent an email.
 > 
-> Step 3: Use your `save_outreach_contact` tool to log Riyad into my outreach tracker."
+> Step 3: Use your `save_outreach_contact` tool to log John Doe into my outreach tracker."
 
 ---
 
