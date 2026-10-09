@@ -102,4 +102,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 If this tool saved you a day, and if you use my other open-source workflow tools, consider supporting the development. Your backing helps keep these small AI tools projects completely free.
 
-[patreon.com/netizen4_bit](https://patreon.com/netizen4_bit)
+[![Patreon](https://img.shields.io/badge/PATREON-SUPPORT%20ME-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=555555)](https://patreon.com/netizen4_bit)
